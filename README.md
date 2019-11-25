@@ -1,6 +1,6 @@
 # Wiegand Number Generator
 
-The jar file is capable for converting decimal number to wiegand number format. Below are the supported formats:
+The jar file is capable for converting decimal number to wiegand number format for below supported formats:
 1. 26 bit
 2. 30 bit
 3. 34 bt
