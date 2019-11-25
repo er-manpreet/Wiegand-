@@ -13,12 +13,19 @@ The jar file is capable for converting decimal number to wiegand number format. 
 #Example
 
 public class DecimalToWiegand {
+
 	public static void main(String[] args) {
+	
 		//WiegandService.ConvertDemimalToWiegandNumber(decimalNumber, facilityCode, wiegandFormat)
+		
 		try {
+		
 			System.out.println(WiegandService.ConvertDemimalToWiegandNumber(123, 0, 26));
+			
 		} catch (Exception e) {
+		
 			e.printStackTrace();
+			
 		}
 	}
 }
